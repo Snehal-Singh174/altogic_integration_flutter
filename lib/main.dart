@@ -7,8 +7,8 @@ late AltogicClient client;
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   client = createClient(
-      'https://c1-india.altogic.com/e:636d44ec5c1df876e548bf5f',
-      '93847fa2f1cb4142bd0bdbaff68d95bd');
+      'YOUR_URL',
+      'YOUR_CLIENT_KEY');
   runApp(const MyApp());
 }
 
