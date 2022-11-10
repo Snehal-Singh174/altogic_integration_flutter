@@ -12,7 +12,7 @@
 
 
 ## :hourglass: Result
-<img src="https://github.com/Snehal-Singh174/altogic_integration_flutter/blob/main/altogic_flutter.png" width="800"/>
+<img src="https://github.com/Snehal-Singh174/altogic_integration_flutter/blob/main/output/altogic_flutter.png" width="800"/>
 
 ## :warning: TechStack/framework used
 
